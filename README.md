@@ -1,4 +1,6 @@
 # Create-Particle-Effects-With-Particles.js
+A lightweight JavaScript library for creating particles.
+
 
 ## screenshot
 
